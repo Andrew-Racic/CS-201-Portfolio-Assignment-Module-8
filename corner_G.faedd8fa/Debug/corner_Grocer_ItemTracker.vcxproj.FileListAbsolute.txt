@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\corner_Grocer_ItemTracker\Debug\corner_Grocer_ItemTracker.exe.lastcodeanalysissucceeded
+C:\Users\andre\source\repos\corner_Grocer_ItemTracker\corner_G.faedd8fa\Debug\NativeCodeAnalysis.read.1.tlog
